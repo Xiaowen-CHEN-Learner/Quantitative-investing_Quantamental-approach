@@ -8,5 +8,5 @@ I want to improve my investing methods to <br>
 3. Find financial factors based on my understanding   <br>
 4. Continue in the path of investing. <br>
 <br>
-*Dataset: The marketdata will from yahoo finance, the companies's performance will from my local models.*
-*Output: Find signals to trade in the market, reach a high return and sharpe ratio at the end of 2026.*
+_Dataset: The marketdata will from yahoo finance, the companies's performance will from my local models.<br>
+Output: Find signals to trade in the market, reach a high return and sharpe ratio at the end of 2026._
