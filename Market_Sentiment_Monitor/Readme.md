@@ -5,3 +5,5 @@ This code serves as
 3. What's the correlation within the pool
 
 The code can also be used as portfolio management and correlation risk control. Replace the pool with the portflio will have that effect.
+
+2026 Oct: Update with 2026 Oct latest result
